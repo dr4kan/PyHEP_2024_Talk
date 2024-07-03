@@ -5,3 +5,4 @@ hist[plot]==2.7.3
 notebook~=6.0
 jupyterlab~=4.0
 tqdm==4.66.4
+tensorflow==2.16.1
